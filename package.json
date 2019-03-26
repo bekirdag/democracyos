@@ -210,7 +210,7 @@
   "main": "index.js",
   "engines": {
     "node": "6",
-    "npm": ">=3 <5"
+    "npm": ">=9 <11"
   },
   "scripts": {
     "preinstall": "bin/dos-ext-install",
