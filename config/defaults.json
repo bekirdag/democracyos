@@ -17,7 +17,7 @@
   "customSignin": false,
   "publicEmails": false,
   "moderatorEnabled": false,
-  "checkNodeVersion": true,
+  "checkNodeVersion": false,
   "auth": {
     "basic": {
       "username": "",
